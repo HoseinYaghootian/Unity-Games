@@ -1,0 +1,11 @@
+C:\Users\Axiom\source\repos\2048\2048\bin\Debug\2048.exe.config
+C:\Users\Axiom\source\repos\2048\2048\bin\Debug\2048.exe
+C:\Users\Axiom\source\repos\2048\2048\bin\Debug\2048.pdb
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\_2048.Form1.resources
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.exe
+C:\Users\Axiom\source\repos\2048\2048\obj\Debug\2048.pdb
