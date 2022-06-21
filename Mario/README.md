@@ -1,5 +1,5 @@
 # Mario
-**Assignment 24**
+**Assignment 23 & 24**
 
 Mario Left -- Right -- Jump\
 if fall down and collision with the enemy you die!\
